@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "PC_SurvivorPro",
+    "name": "追加 - 生存者(プロ)",
+    "authors": [ "FudukiKay" ],
+    "description": "ゲーム開始を少し楽にする職業、生存者(プロ)を追加します。",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]

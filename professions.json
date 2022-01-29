@@ -1,0 +1,53 @@
+[
+  {
+    "type": "profession",
+    "id": "unemployedPro",
+    "name": "生存者(プロ)",
+    "description": "あなたは特に目だったところのない人でした。ところがある日、前世の記憶がよみがえり、するべきことをあなたに囁きました。旅に出る準備は万端です！",
+    "points": 1,
+    "skills": [
+      { "level": 1, "name": "survival" },
+      { "level": 1, "name": "fabrication" },
+      { "level": 1, "name": "tailor" }
+    ],
+    "items": {
+      "both": {
+        "items": [ 
+          "q_staff",
+          "jeans",
+          "longshirt",
+          "socks",
+          "sneakers",
+          "arm_warmers",
+          "gloves_light",
+          "long_patchwork_scarf",
+          "turban",
+          "mbag",
+          "spearsling",
+          "pockknife",
+          "crowbar",
+          "makeshift_hammer",
+          "screwdriver",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "crude_picklock",
+          "bandages_makeshift",
+          "bandages_makeshift",
+          "bandages_makeshift",
+          "water_clean",
+          "wristwatch"
+        ],
+        "entries": [ { "group": "charged_smart_phone" }, { "group": "charged_matches" } ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "bra", "panties" ]
+    }
+  }
+]
