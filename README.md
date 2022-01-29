@@ -1,0 +1,2 @@
+# Add_SurvivorProPC-DDA
+CataclysmDDA用MOD　最序盤の持ち物一式を所持した職業追加
