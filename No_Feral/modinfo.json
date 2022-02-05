@@ -1,26 +1,16 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "No_NomalFeral",
-    "name": "削除 - 一般狂人",
-    "authors": [ "FudukiKay" ],
-    "description": "パイプ、バール、消化斧を装備した通常の狂人を出現しなくします。",
+    "id": "Only_Wildlife",
+    "name": "No Monsters",
+    "authors": [ "Kodi Arfer" ],
+    "description": "Removes all monsters from the game, save for those in the WILDLIFE category.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ],
-    "obsolete": true
+    "dependencies": [ "dda" ]
   },
   {
-    "type": "MONSTER_BLACKLIST",
-    "monsters": [
-      "mon_feral_human_pipe",
-      "mon_feral_human_crowbar",
-      "mon_feral_human_axe",
-      "mon_feral_human_pipe_fungal_infected",
-      "mon_feral_human_crowbar_fungal_infected",
-      "mon_feral_human_axe_fungal_infected",
-      "mon_feral_human_pipe_fungal_corpse",
-      "mon_feral_human_crowbar_fungal_corpse",
-      "mon_feral_human_axe_fungal_corpse"
-    ]
+    "type": "MONSTER_WHITELIST",
+    "mode": "EXCLUSIVE",
+    "categories": [ "WILDLIFE" ]
   }
 ]
