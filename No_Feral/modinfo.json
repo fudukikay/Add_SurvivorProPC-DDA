@@ -6,7 +6,7 @@
     "authors": [ "FudukiKay" ],
     "description": "パイプ、バール、消化斧を装備した通常の狂人を出現しなくします。",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ],
+    "dependencies": [ "dda" ]
   },
   {
     "type": "MONSTER_BLACKLIST",
