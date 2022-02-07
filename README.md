@@ -1,4 +1,5 @@
-自作のCataclysmDDA用MODです。
+自作のCataclysmDDA用MODです。  
+動作はcdda-windows-tiles-x64-msvc-2022-01-22-2354で確認。
 
 ## [追加 - 生存者(プロ)] (PC_SurvivorPro)
 
